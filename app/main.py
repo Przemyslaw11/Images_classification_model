@@ -3,7 +3,7 @@ import os
 import io
 from PIL import Image
 from fastapi import FastAPI, File, UploadFile
-from .AlexNetModified import AlexNetModified
+from .AlexNet_Modified import AlexNetModified
 from torch.nn import Softmax
 from torchvision.transforms import Resize
 from torchvision import transforms
