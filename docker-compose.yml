@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  prediction_service:
+    build:
+      context: ./
+      dockerfile: dockerfile
+    container_name: prediction_model
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./:/code
