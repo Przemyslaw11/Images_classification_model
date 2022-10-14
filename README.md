@@ -10,7 +10,11 @@ Model was made as an exercise in the science club : AGH_RACING
 
 
 ## Model properties:
+<div align="center">
+
 ![Notebook](notebook_with_model/plot.png "Notebook")
+
+</div>
 
 ### Dataset is available under the following link:
   - https://www.cs.toronto.edu/~kriz/cifar.html
