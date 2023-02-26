@@ -1,5 +1,5 @@
 # Images-classification-model
-Model was made as a taskin the science club : AGH_RACING
+Model was made as a task in the science club : AGH_RACING
 
 ## Model's basic documentation:
 ⚫ Dataset consists of 60000 photos. Training set consists of 50000 photos (83,33%) and testing set consists of 10000 photos (16,66%)
